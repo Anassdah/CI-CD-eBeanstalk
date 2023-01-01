@@ -24,4 +24,5 @@ jobs:
         eb init --platform node.js --region eu-west-3
         eb create nodeTest
         eb deploy
+        eb open
         
