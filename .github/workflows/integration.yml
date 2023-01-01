@@ -1,4 +1,4 @@
-name: node continuous integration and deployment with elastic beanstalk
+name: node continuous integration
 
 on:
   push:
