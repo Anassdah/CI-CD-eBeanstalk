@@ -1,5 +1,4 @@
 name: node continuous integration and deployment with elastic beanstalk
-name: Node.js CI
 
 on:
   push:
