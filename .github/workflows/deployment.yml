@@ -21,6 +21,4 @@ jobs:
         pip install awsebcli --upgrade --user
     - name: Deploy to Elastic Beanstalk
       run: |
-        eb init
-        eb create
         eb deploy
